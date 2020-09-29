@@ -1,0 +1,15 @@
+{
+    "name": "Oof",
+    "title": "Oof",
+    "description": "Oof.",
+    "homepage": "https://github.com/wdcroslen/Brackets_Christmas_Theme.git",
+    "version": "1.0.0",
+    "author": "William Croslen <williamdc03@gmail.com>",
+    "license": "",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
